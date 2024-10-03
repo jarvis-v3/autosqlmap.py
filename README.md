@@ -11,7 +11,7 @@ Script ini digunakan untuk melakukan pengujian keamanan pada sebuah website. Ia 
 ## Instalasi
 1. Pastikan Python 3.x telah terinstal pada sistem Anda.
 2. Pastikan Anda memiliki akses root atau hak akses yang diperlukan untuk menginstal alat melalui `sudo apt install`.
-3. Salin kode script ke sebuah file dengan nama `website_security_tester.py`.
+3. Salin kode script ke sebuah file dengan nama `hackwebsite.py`.
 
 ## Penggunaan
 1. Buka terminal atau command prompt.
